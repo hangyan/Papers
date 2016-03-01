@@ -39,6 +39,7 @@ Papers to read
 
 # Economy
 * [佃农理论](./papers/DDLL.pdf)
+* [企业的性质](http://jslz.wh.sdu.edu.cn/uploadfiles/file/1304050181383.pdf)
 
 
 # Law
