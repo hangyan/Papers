@@ -11,6 +11,9 @@ Papers to read
 # DB
 * [PostgreSQL as a Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
 
+# Economy
+* [佃农理论](./Papers/DDLL.pdf)
+
 
 # Languages
 ## C++
@@ -34,6 +37,8 @@ Papers to read
 * [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 * [The little book about OS development](http://littleosbook.github.io/book.pdf)
 
+# Search Engine
+* [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 
 # Tests
 * [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
