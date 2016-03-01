@@ -47,6 +47,9 @@ Papers to read
 # Music
 * [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf)
 
+# Philosophy
+* [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf)
+
 
 # Sociology
 * [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf)
