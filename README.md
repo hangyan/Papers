@@ -22,7 +22,10 @@ Papers to read
 
 ## Python
 * [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
-* 
+
+
+# Law
+* [Brooklyn Judge: Feds Can't Use All Writs Act to Force Apple's Hand](http://blogs.reuters.com/alison-frankel/files/2016/02/applebrooklyn-2.29.16order.pdf)
 
 # OS
 * [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
