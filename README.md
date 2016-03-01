@@ -5,7 +5,7 @@ Papers to read
 
 ## AI
 * [The AI Systems of Left 4 Dead](http://www.valvesoftware.com/publications/2009/ai_systems_of_l4d_mike_booth.pdf)
-
+* [Computing Machinery and Intelligence](http://www.abelard.org/turpap/turpap.pdf) (Alan Turing)
 
 ## Cryptography
 * [Everything you need to know about cryptography in 1 hour](http://www.daemonology.net/papers/crypto1hr.pdf)
@@ -41,7 +41,7 @@ Papers to read
 
 
 # Economy
-* [佃农理论](./papers/DDLL.pdf)
+* [佃农理论](./papers/DDLL.pdf) (张五常)
 * [企业的性质](http://jslz.wh.sdu.edu.cn/uploadfiles/file/1304050181383.pdf)
 
 
@@ -49,7 +49,7 @@ Papers to read
 * [Brooklyn Judge: Feds Can't Use All Writs Act to Force Apple's Hand](http://blogs.reuters.com/alison-frankel/files/2016/02/applebrooklyn-2.29.16order.pdf)
 
 # Music
-* [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf)
+* [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf) (黄霑)
 
 # Philosophy
 * [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf)
