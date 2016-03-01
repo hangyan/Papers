@@ -40,6 +40,9 @@ Papers to read
 # Search Engine
 * [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 
+# Sociology
+* [新化复印产业的生命史](./Papers/新化复印产业的生命史_冯军旗.pdf)
+
 # Tests
 * [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
 
