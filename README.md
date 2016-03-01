@@ -27,6 +27,9 @@ Papers to read
 # Law
 * [Brooklyn Judge: Feds Can't Use All Writs Act to Force Apple's Hand](http://blogs.reuters.com/alison-frankel/files/2016/02/applebrooklyn-2.29.16order.pdf)
 
+# Music
+* [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf)
+
 # OS
 * [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 * [The little book about OS development](http://littleosbook.github.io/book.pdf)
