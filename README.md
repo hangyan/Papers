@@ -50,6 +50,7 @@ Papers to read
 
 # Music
 * [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf) (黄霑)
+* [The Effect of Country Music on Suicide](http://www.uky.edu/~clthyn2/PS671/Stack_1992SF.pdf) (乡村音乐与自杀的关系)
 
 # Philosophy
 * [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf)
@@ -59,4 +60,7 @@ Papers to read
 * [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf)
 
 
+# Babel
+* [Origins of magic: review of genetic and epigenetic effects](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151141/pdf/bmj-335-7633-altered-states-01299.pdf) (魔法的起源：遗传效果与表观遗传效果的评论)
+* 
 
