@@ -13,6 +13,9 @@ Papers to read
 ## DB
 * [PostgreSQL as a Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
 
+## Graphics
+* [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
+
 ## Languages
 ### C++
 * [Proposal for a packaging system for C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0235r0.pdf)
