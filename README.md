@@ -32,38 +32,34 @@ Papers to read
 
 
 ## OS
-* [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-* [The little book about OS development](http://littleosbook.github.io/book.pdf)
+- [ ] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) (Little Book)
+- [ ] [The little book about OS development](http://littleosbook.github.io/book.pdf) (Little Book)
 
 ## Search Engine
-* [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
+- [ ] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 
 ## Tests
-* [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
+- [x] [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
 
 
 
 # Economy
-* [佃农理论](./papers/DDLL.pdf) (张五常)
-* [企业的性质](http://jslz.wh.sdu.edu.cn/uploadfiles/file/1304050181383.pdf)
+- [ ] [佃农理论](./papers/DDLL.pdf) (张五常)
+- [ ] [企业的性质](http://jslz.wh.sdu.edu.cn/uploadfiles/file/1304050181383.pdf)
 
-
-# Law
-* [Brooklyn Judge: Feds Can't Use All Writs Act to Force Apple's Hand](http://blogs.reuters.com/alison-frankel/files/2016/02/applebrooklyn-2.29.16order.pdf)
 
 # Music
-* [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf) (黄霑)
-* [The Effect of Country Music on Suicide](http://www.uky.edu/~clthyn2/PS671/Stack_1992SF.pdf) (乡村音乐与自杀的关系)
+- [x] [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf) (黄霑) (Book)
+- [ ] [The Effect of Country Music on Suicide](http://www.uky.edu/~clthyn2/PS671/Stack_1992SF.pdf) (乡村音乐与自杀的关系)
 
 # Philosophy
-* [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf)
+- [ ] [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf) (Book)
 
 
 # Sociology
-* [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf)
+- [ ] [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) (Book)
 
 
 # Babel
-* [Origins of magic: review of genetic and epigenetic effects](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151141/pdf/bmj-335-7633-altered-states-01299.pdf) (魔法的起源：遗传效果与表观遗传效果的评论)
-* 
+- [ ] [Origins of magic: review of genetic and epigenetic effects](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151141/pdf/bmj-335-7633-altered-states-01299.pdf) (魔法的起源：遗传效果与表观遗传效果的评论)
 
