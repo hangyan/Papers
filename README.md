@@ -6,6 +6,7 @@ Papers to read
 ## AI
 * [The AI Systems of Left 4 Dead](http://www.valvesoftware.com/publications/2009/ai_systems_of_l4d_mike_booth.pdf)
 * [Computing Machinery and Intelligence](http://www.abelard.org/turpap/turpap.pdf) (Alan Turing)
+* [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802)
 
 ## Cryptography
 * [Everything you need to know about cryptography in 1 hour](http://www.daemonology.net/papers/crypto1hr.pdf)
