@@ -29,8 +29,8 @@ Papers to read
 
 
 ## OS
-- [ ] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) (Little Book)
-- [ ] [The little book about OS development](http://littleosbook.github.io/book.pdf) (Little Book)
+- [ ] [Book] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) 
+- [ ] [Book] [The little book about OS development](http://littleosbook.github.io/book.pdf) 
 
 ## Search Engine
 - [ ] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
@@ -46,15 +46,15 @@ Papers to read
 
 
 # Music
-- [x] [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf) (黄霑) (Book)
+- [x] [Book] [粤语流行曲的发展与兴衰: 香港流行音乐研究(1949-1997)](./papers/1949.pdf) (黄霑) 
 - [ ] [The Effect of Country Music on Suicide](http://www.uky.edu/~clthyn2/PS671/Stack_1992SF.pdf) (乡村音乐与自杀的关系)
 
 # Philosophy
-- [ ] [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf) (Book)
+- [ ] [Book] [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf) 
 
 
 # Sociology
-- [ ] [Book][新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) 
+- [ ] [Book] [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) 
 
 
 # Babel
