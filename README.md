@@ -4,26 +4,25 @@ Papers to read
 # CS
 
 ## AI
-* [The AI Systems of Left 4 Dead](http://www.valvesoftware.com/publications/2009/ai_systems_of_l4d_mike_booth.pdf)
-* [Computing Machinery and Intelligence](http://www.abelard.org/turpap/turpap.pdf) (Alan Turing)
-* [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802)
+- [x] [Computing Machinery and Intelligence](http://www.abelard.org/turpap/turpap.pdf) (Alan Turing)
+- [x] [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802)
 
 ## Cryptography
-* [Everything you need to know about cryptography in 1 hour](http://www.daemonology.net/papers/crypto1hr.pdf)
+- [x] [Everything you need to know about cryptography in 1 hour](http://www.daemonology.net/papers/crypto1hr.pdf)
 
 ## DB
-* [PostgreSQL as a Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
+- [x] [PostgreSQL as a Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
 
 ## Distributed Computing
-* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://mesos.berkeley.edu/mesos_tech_report.pdf)
+- [x] [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://mesos.berkeley.edu/mesos_tech_report.pdf)
 
 ## Graphics
-* [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
+- [] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
 
 ## Languages
 ### C++
-* [Proposal for a packaging system for C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0235r0.pdf)
-* [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
+- [x] [Proposal for a packaging system for C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0235r0.pdf)
+- [x] [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
 
 ### C
 * [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
