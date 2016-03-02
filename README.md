@@ -8,16 +8,16 @@ Papers to read
 - [x] [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802)
 
 ## Cryptography
-- [x] [Everything you need to know about cryptography in 1 hour](http://www.daemonology.net/papers/crypto1hr.pdf)
+- [x] [Everything you need to know about cryptography in 1 hour](http://www.daemonology.net/papers/crypto1hr.pdf) (Presentation)
 
 ## DB
-- [x] [PostgreSQL as a Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
+- [x] [PostgreSQL as a Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf) (Presentation)
 
 ## Distributed Computing
 - [x] [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://mesos.berkeley.edu/mesos_tech_report.pdf)
 
 ## Graphics
-- [] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
+- [ ] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
 
 ## Languages
 ### C++
@@ -25,10 +25,10 @@ Papers to read
 - [x] [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
 
 ### C
-* [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+- [ ] [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (Book)
 
 ### Python
-* [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
+- [ ] [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (Presentation)
 
 
 ## OS
