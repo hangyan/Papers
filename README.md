@@ -25,8 +25,9 @@ Papers to read
 - [x] [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
 
 ### Python
-- [ ] [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (Presentation)
-
+- [x] [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (Presentation)
+- [ ] [Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)
+- [ ] [Functional Programming in Python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
 
 ## OS
 - [ ] [Book] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) 
@@ -51,7 +52,7 @@ Papers to read
 
 # Philosophy
 - [ ] [Book] [审美与人的自由](http://hum.gzu.edu.cn/picture/article/281/02/c4/1aafacd64ce2a6a874ea8298de48/7b658d62-9300-415b-a6da-564ada255cf3.pdf) 
-
+- [ ] [Why Philosophers Should Care About Computational Complexity](http://www.scottaaronson.com/papers/philos.pdf)
 
 # Sociology
 - [ ] [Book] [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) 
