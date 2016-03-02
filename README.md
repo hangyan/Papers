@@ -24,9 +24,6 @@ Papers to read
 - [x] [Proposal for a packaging system for C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0235r0.pdf)
 - [x] [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
 
-### C
-- [ ] [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (Book)
-
 ### Python
 - [ ] [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (Presentation)
 
@@ -57,7 +54,7 @@ Papers to read
 
 
 # Sociology
-- [ ] [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) (Book)
+- [ ] [Book][新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) 
 
 
 # Babel
