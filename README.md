@@ -15,6 +15,11 @@ Papers to read
 
 ## Distributed Computing
 - [x] [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](http://mesos.berkeley.edu/mesos_tech_report.pdf)
+- [ ] [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
+
+## Filesystem
+- [ ] [A Fast File System for UNIX*](http://www.cs.berkeley.edu/~brewer/cs262/FFS.pdf)
+- [ ] [The Design and Implementation of a Log-Structured File System](http://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
 
 ## Graphics
 - [ ] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
@@ -39,7 +44,8 @@ Papers to read
 ## Tests
 - [x] [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
 
-
+## Virtualization
+- [ ] [Xen and the Art of Virtualization](http://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf)
 
 # Economy
 - [ ] [佃农理论](./papers/DDLL.pdf) (张五常)
