@@ -40,7 +40,7 @@ Papers to read
 - [ ] [Book] [The little book about OS development](http://littleosbook.github.io/book.pdf) 
 
 ## Search Engine
-- [ ] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
+- [x] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
 
 ## Tests
 - [x] [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
