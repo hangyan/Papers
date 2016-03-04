@@ -36,7 +36,7 @@ Papers to read
 - [ ] [Functional Programming in Python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
 
 ## OS
-- [ ] [Book] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) 
+- [x] [Book] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) 
 - [ ] [Book] [The little book about OS development](http://littleosbook.github.io/book.pdf) 
 
 ## Search Engine
