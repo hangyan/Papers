@@ -38,6 +38,7 @@ Papers to read
 ## OS
 - [x] [Book] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) 
 - [ ] [Book] [The little book about OS development](http://littleosbook.github.io/book.pdf) 
+- [x] [The UNIX TimeSharing System](http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf)
 
 ## Search Engine
 - [x] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
