@@ -30,10 +30,16 @@ Papers to read
 - [x] [Proposal for a packaging system for C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0235r0.pdf)
 - [x] [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
 
+
+### Oberon
+- [ ] [The Programming Language Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/Oberon07.Report.pdf)
+- [ ] [Programming in Oberon](http://www.ethoberon.ethz.ch/WirthPubl/ProgInOberon.pdf)
+
 ### Python
 - [x] [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (Presentation)
 - [ ] [Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)
 - [ ] [Functional Programming in Python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
+
 
 ## OS
 - [x] [Book] [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) 
