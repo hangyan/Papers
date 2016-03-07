@@ -32,7 +32,7 @@ Papers to read
 
 
 ### Oberon
-- [ ] [The Programming Language Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/Oberon07.Report.pdf)
+- [x] [The Programming Language Oberon](https://www.inf.ethz.ch/personal/wirth/Oberon/Oberon07.Report.pdf)
 - [ ] [Programming in Oberon](http://www.ethoberon.ethz.ch/WirthPubl/ProgInOberon.pdf)
 
 ### Python
