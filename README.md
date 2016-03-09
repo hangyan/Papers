@@ -18,6 +18,7 @@ Papers to read
 - [x] [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
 - [ ] [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 - [x] [Borg, Omega, and Kubernetes](http://delivery.acm.org/10.1145/2900000/2898444/p10-burns.pdf?ip=106.187.37.143&id=2898444&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=758334825&CFTOKEN=82673945&__acm__=1457341183_edee3f16109f4c7373acd9f96f5a7964)
+- [x] [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43438.pdf)
 
 ## Filesystem
 - [ ] [A Fast File System for UNIX*](http://www.cs.berkeley.edu/~brewer/cs262/FFS.pdf)
