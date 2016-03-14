@@ -63,6 +63,7 @@ Papers to read
 
 ## Security
 - [x] [How to launch and defend against a DDoS](http://www.secure.edu.pl/pdf/2013/D1_1530_A_Graham-Cumming.pdf)
+- [x] [What ISPs Can See](https://www.teamupturn.com/static/reports/2016/what-isps-can-see/files/Upturn%20-%20What%20ISPs%20Can%20See%20v.1.0.pdf)
 
 ## Tests
 - [x] [Why Most Unit Testing is Waste](http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
