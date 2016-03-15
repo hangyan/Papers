@@ -38,6 +38,10 @@ Papers to read
 - [ ] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
 
 ## Languages
+
+### Common
+- [x] [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
+
 ### C++
 - [x] [Proposal for a packaging system for C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2016/p0235r0.pdf)
 - [x] [Modules in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2073.pdf)
