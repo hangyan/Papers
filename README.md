@@ -62,6 +62,7 @@ Papers to read
 - [ ] [Book] [The little book about OS development](http://littleosbook.github.io/book.pdf) 
 - [x] [The UNIX TimeSharing System](http://www.cs.berkeley.edu/~brewer/cs262/unix.pdf)
 - [x] [The Unix Spirit set Free: Plan 9 from Bell Labs](http://docs.huihoo.com/plan9/Plan9.pdf)
+- [x] [Plan 9 from Bell Labs](https://pdos.csail.mit.edu/archive/6.824-2012/papers/plan9.pdf)
 
 ## Search Engine
 - [x] [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)
