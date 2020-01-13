@@ -28,6 +28,7 @@ Papers to read
 - [x] [Borg, Omega, and Kubernetes](http://delivery.acm.org/10.1145/2900000/2898444/p10-burns.pdf?ip=106.187.37.143&id=2898444&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=758334825&CFTOKEN=82673945&__acm__=1457341183_edee3f16109f4c7373acd9f96f5a7964)
 - [x] [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43438.pdf)
 - [x] [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
+- [x] [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)([Notes](https://yanhang.me/posts/raft-notes/))
 
 ## Filesystem
 - [ ] [A Fast File System for UNIX*](http://www.cs.berkeley.edu/~brewer/cs262/FFS.pdf)
