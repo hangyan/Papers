@@ -3,6 +3,9 @@ Papers to read
 
 # CS
 
+## Kernel
+- [x] [Efficient IO with io_uring](https://kernel.dk/io_uring.pdf)
+
 ## AI
 - [x] [Computing Machinery and Intelligence](http://www.abelard.org/turpap/turpap.pdf) (Alan Turing)
 - [x] [A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802)
@@ -93,6 +96,7 @@ Papers to read
 
 # Sociology
 - [ ] [Book] [新化复印产业的生命史](./papers/新化复印产业的生命史_冯军旗.pdf) 
+- [x] [Toward an abstract Wikipedia](http://ceur-ws.org/Vol-2211/paper-03.pdf)
 
 
 # Babel
