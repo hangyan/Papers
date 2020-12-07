@@ -36,7 +36,7 @@ Papers to read
 ## Filesystem
 - [ ] [A Fast File System for UNIX*](http://www.cs.berkeley.edu/~brewer/cs262/FFS.pdf)
 - [ ] [The Design and Implementation of a Log-Structured File System](http://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
-
+- [x] [YetHierarchical File Systems Won’t Die](https://fsgeek.ca/wp-content/uploads/2019/04/notdead.pdf)
 
 ## Graphics
 - [ ] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
