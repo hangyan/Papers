@@ -5,6 +5,7 @@ Papers to read
 
 ## Kernel
 - [x] [Efficient IO with io_uring](https://kernel.dk/io_uring.pdf)
+- [x] [A Binary-Compatible Unikernel](https://dl.acm.org/doi/pdf/10.1145/3313808.3313817)
 
 ## AI
 - [x] [Computing Machinery and Intelligence](http://www.abelard.org/turpap/turpap.pdf) (Alan Turing)
@@ -32,11 +33,13 @@ Papers to read
 - [x] [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43438.pdf)
 - [x] [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
 - [x] [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)([Notes](https://yanhang.me/posts/raft-notes/))
+- [x] [Weighted Voting for Replicated Data](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p150-gifford.pdf)
 
 ## Filesystem
 - [ ] [A Fast File System for UNIX*](http://www.cs.berkeley.edu/~brewer/cs262/FFS.pdf)
 - [ ] [The Design and Implementation of a Log-Structured File System](http://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
 - [x] [YetHierarchical File Systems Won’t Die](https://fsgeek.ca/wp-content/uploads/2019/04/notdead.pdf)
+- [x] [The Zettabyte File System](https://www.cs.hmc.edu/~geoff/classes/hmc.cs137.202001/papers/zfs.pdf)
 
 ## Graphics
 - [ ] [Sketchpad: A man-machine graphical communication system](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)
